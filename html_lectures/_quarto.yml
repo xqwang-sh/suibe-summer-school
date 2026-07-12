@@ -1,0 +1,29 @@
+project:
+  type: default
+  output-dir: _site
+  post-render: python3 scripts/embed_css_dependencies.py _site
+
+format:
+  revealjs:
+    theme: styles.scss
+    slide-number: c/t
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    hash: true
+    embed-resources: true
+    width: 1280
+    height: 720
+    margin: 0.06
+    center: false
+    code-overflow: wrap
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto
+
+lang: en
+date-format: "MMMM D, YYYY"

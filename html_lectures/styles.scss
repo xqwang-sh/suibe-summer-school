@@ -1,0 +1,1450 @@
+/*-- scss:defaults --*/
+$paper: #F7F3EA;
+$ink: #172132;
+$brick: #C9583E;
+$blue: #4B718A;
+$gold: #C59A45;
+$muted: #6F746F;
+$rule: rgba($ink, 0.20);
+$paper-raised: #FFFCF5;
+
+$presentation-heading-color: $ink;
+$presentation-font-size-root: 27px;
+$presentation-heading-font: Aptos, "Helvetica Neue", Arial, sans-serif;
+$font-family-sans-serif: Aptos, "Helvetica Neue", Arial, sans-serif;
+$body-bg: $paper;
+$body-color: $ink;
+$link-color: $brick;
+
+/*-- scss:rules --*/
+* {
+  box-sizing: border-box;
+}
+
+.reveal {
+  color: $ink;
+  font-family: Aptos, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.28;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal .slides section {
+  min-width: 0;
+  padding: 42px 54px 50px;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+  color: $ink;
+  font-family: Aptos, "Helvetica Neue", Arial, sans-serif;
+  font-weight: 650;
+  letter-spacing: -0.015em;
+  line-height: 1.08;
+  text-transform: none;
+}
+
+.reveal h1 {
+  font-size: 1.84em;
+  max-width: 980px;
+}
+
+.reveal h2 {
+  border-bottom: 1px solid $rule;
+  font-size: 1.33em;
+  margin: 0 0 0.55em;
+  padding: 0 0 0.28em;
+}
+
+.reveal h3 {
+  font-size: 0.9em;
+  margin: 0 0 0.28em;
+}
+
+.reveal p,
+.reveal li,
+.reveal td,
+.reveal th {
+  overflow-wrap: break-word;
+}
+
+.reveal a {
+  text-decoration-color: rgba($brick, 0.45);
+  text-underline-offset: 0.12em;
+}
+
+.reveal img {
+  display: block;
+  height: auto;
+  max-height: 430px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* Editorial title treatment */
+#title-slide,
+.title-slide {
+  align-items: flex-start;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 180px !important;
+}
+
+#title-slide::before,
+.title-slide::before {
+  display: none;
+}
+
+#title-slide .title,
+.title-slide .title {
+  border: 0;
+  font-size: 2.05em;
+  margin: 0;
+  max-width: 950px;
+  padding: 0;
+  text-align: left;
+}
+
+#title-slide .subtitle,
+.title-slide .subtitle,
+.subtitle {
+  color: $muted;
+  font-size: 0.90em;
+  line-height: 1.34;
+  margin: 0.6em 0 0;
+  max-width: 850px;
+}
+
+#title-slide .quarto-title-author-name,
+.title-slide .quarto-title-author-name,
+#title-slide .author,
+.title-slide .author {
+  color: $ink;
+  font-size: 0.95em;
+  font-weight: 650;
+  margin: 1.05em 0 0;
+}
+
+#title-slide .institute,
+.title-slide .institute,
+#title-slide .quarto-title-affiliation,
+.title-slide .quarto-title-affiliation {
+  color: $muted;
+  font-size: 0.82em;
+  margin: 0.18em 0 0;
+}
+
+#title-slide .date,
+.title-slide .date {
+  color: $muted;
+  font-size: 0.82em;
+  margin: 0.6em 0 0;
+}
+
+#title-slide .quarto-title-authors,
+.title-slide .quarto-title-authors {
+  justify-content: flex-start;
+  width: 100%;
+}
+
+#title-slide .quarto-title-author,
+.title-slide .quarto-title-author {
+  padding: 0;
+  text-align: left !important;
+}
+
+#title-slide .quarto-title-affiliation,
+.title-slide .quarto-title-affiliation {
+  text-align: left !important;
+}
+
+.deck-kicker {
+  color: $brick;
+  font-size: 0.54em;
+  font-weight: 750;
+  letter-spacing: 0.13em;
+  margin-bottom: 0.55em;
+  text-transform: uppercase;
+}
+
+.question-marker {
+  border-top: 3px solid $brick;
+  color: $muted;
+  font-size: 0.48em;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  max-width: 330px;
+  padding-top: 7px;
+  position: absolute;
+  right: 54px;
+  text-align: right;
+  text-transform: uppercase;
+  top: 18px;
+  z-index: 2;
+}
+
+.reveal .slide-number {
+  background: transparent;
+  border-top: 1px solid rgba($ink, 0.35);
+  bottom: 14px;
+  color: $muted;
+  font-family: Aptos, "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  min-width: 92px;
+  padding: 5px 0 0;
+  right: 24px;
+  text-align: right;
+}
+
+.thesis {
+  border-left: 5px solid $brick;
+  font-family: Aptos, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1em;
+  font-weight: 650;
+  line-height: 1.25;
+  margin: 0.55em 0 0.8em;
+  max-width: 1080px;
+  padding: 0.25em 0 0.25em 0.75em;
+}
+
+.takeaway {
+  border-top: 2px solid $brick;
+  color: $ink;
+  font-family: Aptos, "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.7em;
+  font-weight: 650;
+  line-height: 1.28;
+  margin-top: 0.75em;
+  padding-top: 0.45em;
+}
+
+.source {
+  color: $muted;
+  font-size: 13px;
+  line-height: 1.28;
+  margin-top: 0.65em;
+}
+
+/* Shared grid grammar */
+.editorial-grid {
+  display: grid;
+  gap: 0.72em;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  min-width: 0;
+}
+
+.editorial-grid[data-columns="2"] {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.editorial-grid[data-columns="3"] {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.editorial-grid > *,
+.evidence-layout > *,
+.mechanism > *,
+.dual-flow > *,
+.timeline > *,
+.comparison > *,
+.activity > *,
+.synthesis-map > * {
+  min-width: 0;
+}
+
+.editorial-grid > * {
+  border-top: 3px solid $blue;
+  padding: 0.5em 0.18em 0;
+}
+
+.editorial-grid > *:nth-child(2n) {
+  border-top-color: $gold;
+}
+
+.editorial-grid p {
+  font-size: 0.7em;
+  line-height: 1.25;
+  margin: 0.18em 0;
+}
+
+.evidence-layout {
+  align-items: start;
+  display: grid;
+  gap: 0.85em;
+  grid-template-columns: minmax(0, 1fr);
+  min-width: 0;
+}
+
+.evidence-layout.two-column,
+.evidence-layout[data-columns="2"] {
+  grid-template-columns: minmax(0, 1.12fr) minmax(0, 0.88fr);
+}
+
+.evidence-layout img {
+  margin-inline: auto;
+}
+
+.evidence-layout figure {
+  margin: 0;
+}
+
+.evidence-layout figcaption {
+  color: $muted;
+  font-size: 0.52em;
+  margin-top: 0.35em;
+}
+
+.balance-sheet-grid {
+  display: grid;
+  gap: 0.8em;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 0.85em 0 0.65em;
+  min-width: 0;
+}
+
+.balance-sheet-side {
+  background: rgba($blue, 0.06);
+  border-top: 5px solid $blue;
+  min-width: 0;
+  padding: 0.65em 0.72em 0.5em;
+}
+
+.balance-sheet-side.funding-side {
+  background: rgba($brick, 0.05);
+  border-top-color: $brick;
+}
+
+.balance-sheet-side h3 {
+  font-size: 0.86em;
+  margin: 0 0 0.45em;
+}
+
+.balance-sheet-row {
+  align-items: baseline;
+  border-bottom: 1px solid $rule;
+  display: grid;
+  font-size: 0.74em;
+  gap: 0.55em;
+  grid-template-columns: minmax(145px, 0.62fr) minmax(0, 1.38fr);
+  padding: 0.55em 0.05em;
+}
+
+.balance-sheet-row:last-child {
+  border-bottom: 0;
+}
+
+.balance-sheet-row strong {
+  color: $ink;
+  font-weight: 700;
+}
+
+.balance-sheet-row span {
+  color: $muted;
+}
+
+/* Lecture evidence pages: one dominant visual, one sentence, one source. */
+.large-figure {
+  display: grid;
+  gap: 0.28em;
+  grid-template-rows: minmax(0, 1fr) auto auto;
+  min-height: 500px;
+  min-width: 0;
+}
+
+.large-figure > p {
+  margin: 0;
+}
+
+.large-figure > p:first-child img,
+.large-figure > figure:first-child img {
+  height: 405px;
+  margin-inline: auto;
+  max-height: 405px;
+  object-fit: contain;
+  width: 100%;
+}
+
+.large-figure .takeaway {
+  font-size: 0.67em;
+  margin-top: 0.15em;
+  padding-top: 0.32em;
+}
+
+.large-figure .source {
+  font-size: 13px;
+  margin-top: 0.05em;
+}
+
+.large-figure.expanded-chart {
+  min-height: 500px;
+}
+
+.large-figure.expanded-chart > p:first-child img,
+.large-figure.expanded-chart > figure:first-child img {
+  height: 455px;
+  max-height: 455px;
+}
+
+.large-figure.expanded-chart .source {
+  font-size: 11px;
+}
+
+/* Lecture 2 paper evidence: reserve the full compact source inside the slide. */
+.large-figure.expanded-chart.paper-evidence-figure {
+  min-height: 490px;
+}
+
+.large-figure.expanded-chart.paper-evidence-figure > p:first-child img,
+.large-figure.expanded-chart.paper-evidence-figure > figure:first-child img {
+  height: 445px;
+  max-height: 445px;
+}
+
+#how-fast-did-chinas-bond-market-grow .large-figure img {
+  max-height: 315px;
+}
+
+/* Allen-inspired structural diagnostic on Lecture 1 Slide 29. */
+.diagnostic-framework {
+  display: grid;
+  gap: 0.55em;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 0.35em auto 0;
+  max-width: 1030px;
+  position: relative;
+}
+
+.diagnostic-framework::before,
+.diagnostic-framework::after {
+  background: rgba($ink, 0.20);
+  content: "";
+  pointer-events: none;
+  position: absolute;
+}
+
+.diagnostic-framework::before {
+  bottom: 0;
+  left: 50%;
+  top: 0;
+  width: 1px;
+}
+
+.diagnostic-framework::after {
+  height: 1px;
+  left: 0;
+  right: 0;
+  top: 50%;
+}
+
+.diagnostic-axis {
+  border-top: 5px solid $blue;
+  display: grid;
+  gap: 0.18em;
+  min-height: 145px;
+  padding: 0.48em 0.6em 0.38em;
+}
+
+.diagnostic-axis:nth-child(2) { border-top-color: $gold; }
+.diagnostic-axis:nth-child(3) { border-top-color: $brick; }
+.diagnostic-axis:nth-child(4) { border-top-color: $ink; }
+
+.diagnostic-axis strong {
+  color: $ink;
+  font-family: Aptos, "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.8em;
+  font-weight: 650;
+  letter-spacing: 0.04em;
+}
+
+.diagnostic-axis span {
+  font-size: 0.61em;
+  line-height: 1.2;
+}
+
+.diagnostic-axis em {
+  color: $muted;
+  font-size: 0.54em;
+  font-style: normal;
+}
+
+.diagnostic-axis b {
+  color: $brick;
+  font-size: 0.48em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* Mechanisms and flows */
+.mechanism {
+  align-items: stretch;
+  display: grid;
+  gap: 0.5em;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  margin: 0.6em 0;
+  min-width: 0;
+}
+
+.mechanism > * {
+  background: rgba($blue, 0.09);
+  border: 1px solid rgba($blue, 0.42);
+  border-radius: 3px;
+  padding: 0.55em;
+  position: relative;
+}
+
+.mechanism > * + *::before {
+  color: $brick;
+  content: "→";
+  font-weight: 800;
+  left: -0.48em;
+  position: absolute;
+  top: 42%;
+}
+
+.mechanism h3,
+.mechanism p {
+  margin: 0.12em 0;
+}
+
+.mechanism p {
+  font-size: 0.65em;
+}
+
+.dual-flow {
+  display: grid;
+  gap: 0.48em;
+  grid-template-columns: minmax(0, 1fr);
+  margin: 0.55em 0;
+  min-width: 0;
+}
+
+.dual-flow > * {
+  align-items: center;
+  border-left: 5px solid $blue;
+  display: grid;
+  gap: 0.45em;
+  grid-template-columns: minmax(130px, 0.55fr) minmax(0, 1.45fr);
+  padding: 0.45em 0.65em;
+}
+
+.dual-flow > * > * {
+  min-width: 0;
+}
+
+.dual-flow > *:nth-child(2n) {
+  border-left-color: $gold;
+}
+
+.dual-flow p {
+  font-size: 0.68em;
+  margin: 0;
+}
+
+.market-pair {
+  display: grid;
+  gap: 0.8em;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 0.35em 0 0.5em;
+}
+
+.market-pair > * {
+  background: $paper-raised;
+  border-top: 5px solid $blue;
+  min-width: 0;
+  padding: 0.7em 0.8em;
+}
+
+.market-pair > :nth-child(2) { border-top-color: $gold; }
+.market-pair h3 { margin-bottom: 0.45em; }
+.market-pair p { font-size: 0.66em; line-height: 1.32; margin: 0.14em 0; }
+
+.market-bridge {
+  border-bottom: 1px solid rgba($gold, 0.75);
+  border-top: 1px solid rgba($gold, 0.75);
+  color: $ink;
+  font-size: 0.74em;
+  margin: 0.2em 0 0.5em;
+  padding: 0.38em 0;
+  text-align: center;
+}
+
+.figure-reading {
+  color: $ink;
+  font-size: 0.56em;
+  line-height: 1.24;
+  margin: 0.18em 0 0.28em;
+}
+
+.task-definition {
+  border-left: 4px solid $brick;
+  font-size: 0.64em;
+  line-height: 1.28;
+  margin: 0.2em 0 0.45em;
+  padding: 0.3em 0.55em;
+}
+
+/* Lecture 1 semantic layouts: scoped to the four corrected slides. */
+.rail-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.48em;
+  justify-content: center;
+  min-height: 505px;
+  min-width: 0;
+}
+
+.rail-stack > *,
+.rail-row > *,
+.instrument-grid > *,
+.instrument-card > *,
+.layer-stack > *,
+.layer-row > *,
+.transformation-grid > *,
+.transformation-card > *,
+.history-body > * {
+  min-width: 0;
+}
+
+.rail-row {
+  border-left: 5px solid $blue;
+  display: grid;
+  gap: 0.5em;
+  grid-template-columns: minmax(245px, 0.62fr) minmax(0, 1.38fr);
+  min-width: 0;
+  padding: 0.4em 0.62em;
+}
+
+.rail-row:nth-child(2) {
+  border-left-color: $gold;
+}
+
+.rail-label,
+.rail-chain,
+.rail-row p {
+  margin: 0;
+}
+
+.rail-label {
+  font-size: 1.05em;
+}
+
+.rail-label p {
+  font-size: 1em;
+}
+
+.rail-chain {
+  font-size: 0.92em;
+}
+
+.rail-chain p {
+  font-size: 1em;
+}
+
+.instrument-grid {
+  display: grid;
+  gap: 0.55em;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  min-width: 0;
+}
+
+.instrument-card {
+  background: rgba($blue, 0.07);
+  border-top: 3px solid $blue;
+  min-width: 0;
+  padding: 0.42em 0.5em;
+}
+
+.instrument-card:nth-child(2) { border-top-color: $gold; }
+.instrument-card:nth-child(3) { border-top-color: $brick; }
+
+.instrument-title,
+.instrument-card p {
+  margin: 0.08em 0;
+}
+
+.instrument-title {
+  font-size: 1em;
+}
+
+.instrument-title p {
+  font-size: 1em;
+}
+
+.instrument-card > p {
+  font-size: 0.88em;
+}
+
+.layer-stack {
+  display: grid;
+  gap: 0.55em;
+  margin: 0.8em 0 0.65em;
+  min-width: 0;
+}
+
+.layer-row {
+  align-items: center;
+  border-left: 5px solid $blue;
+  display: grid;
+  gap: 0.7em;
+  grid-template-columns: minmax(250px, 0.42fr) minmax(0, 1.58fr);
+  min-width: 0;
+  padding: 0.58em 0.7em;
+}
+
+.layer-row:nth-child(2) {
+  border-left-color: $gold;
+}
+
+.layer-label,
+.layer-chain {
+  min-width: 0;
+}
+
+.layer-label p,
+.layer-chain p {
+  margin: 0;
+}
+
+.layer-chain {
+  font-size: 0.66em;
+  text-align: center;
+}
+
+.layer-stack + .mechanism {
+  margin-inline: auto;
+  max-width: 900px;
+  width: 100%;
+}
+
+.transformation-grid {
+  display: grid;
+  gap: 0.62em;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 0.8em 0;
+  min-width: 0;
+}
+
+.transformation-card {
+  align-items: center;
+  background: rgba($blue, 0.08);
+  border: 1px solid rgba($blue, 0.38);
+  border-top: 4px solid $blue;
+  display: flex;
+  font-size: 0.68em;
+  min-height: 112px;
+  min-width: 0;
+  padding: 0.65em;
+}
+
+.transformation-card:nth-child(2n) { border-top-color: $gold; }
+.transformation-card:nth-child(3) { border-top-color: $brick; }
+
+.transformation-card p {
+  margin: 0;
+}
+
+.history-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.32em;
+  justify-content: center;
+  min-height: 505px;
+  min-width: 0;
+}
+
+.rail-stack img,
+.instrument-grid img,
+.layer-stack img,
+.transformation-grid img,
+.history-body img {
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.flow {
+  align-items: stretch;
+  display: flex;
+  gap: 0.34em;
+  margin: 0.6em 0;
+  min-width: 0;
+}
+
+.flow > *,
+.flow .step {
+  background: rgba($blue, 0.10);
+  border-top: 3px solid $blue;
+  flex: 1 1 0;
+  font-size: 0.67em;
+  min-width: 0;
+  padding: 0.55em 0.4em;
+  text-align: center;
+}
+
+.flow .arrow {
+  align-self: center;
+  background: transparent;
+  border: 0;
+  color: $brick;
+  flex: 0 0 auto;
+  padding: 0;
+}
+
+/* Time, comparison, and classroom structures */
+.timeline {
+  display: grid;
+  gap: 0.45em;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  margin: 0.65em 0;
+  min-width: 0;
+  position: relative;
+}
+
+.timeline::before {
+  background: rgba($ink, 0.26);
+  content: "";
+  height: 1px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 18px;
+}
+
+.timeline > * {
+  padding: 38px 0.2em 0;
+  position: relative;
+}
+
+.timeline > *::before {
+  background: $paper;
+  border: 4px solid $brick;
+  border-radius: 50%;
+  content: "";
+  height: 15px;
+  left: 0.2em;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+
+.timeline strong {
+  color: $brick;
+  display: block;
+  font-size: 0.76em;
+  line-height: 1.12;
+}
+
+.timeline p {
+  font-size: 0.61em;
+  line-height: 1.22;
+  margin: 0.12em 0;
+}
+
+.comparison {
+  max-width: 100%;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.comparison table,
+table.comparison {
+  border-collapse: collapse;
+  display: table;
+  font-size: 0.68em;
+  line-height: 1.23;
+  margin: 0.45em 0;
+  width: 100%;
+}
+
+.comparison th,
+table.comparison th {
+  background: $ink;
+  color: $paper;
+  font-weight: 700;
+  padding: 0.55em 0.65em;
+  text-align: left;
+}
+
+.comparison td,
+table.comparison td {
+  border-bottom: 1px solid $rule;
+  padding: 0.48em 0.65em;
+  vertical-align: top;
+}
+
+.comparison tr:nth-child(even) td,
+table.comparison tr:nth-child(even) td {
+  background: rgba($blue, 0.06);
+}
+
+.activity {
+  background: $paper-raised;
+  border: 1px solid rgba($gold, 0.65);
+  display: grid;
+  gap: 0.55em;
+  grid-template-columns: minmax(0, 0.72fr) minmax(0, 1.28fr);
+  min-width: 0;
+  padding: 0.7em;
+}
+
+.activity > * {
+  border-top: 3px solid $gold;
+  padding-top: 0.4em;
+}
+
+.activity h3 {
+  color: $brick;
+}
+
+.activity p,
+.activity li {
+  font-size: 0.67em;
+  line-height: 1.25;
+}
+
+.synthesis-map {
+  align-items: stretch;
+  display: grid;
+  gap: 0.55em;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  margin: 0.6em 0;
+  min-width: 0;
+}
+
+.synthesis-map > * {
+  background: $paper-raised;
+  border: 1px solid $rule;
+  border-bottom: 5px solid $blue;
+  padding: 0.6em;
+}
+
+.synthesis-map > *:nth-child(2n) {
+  border-bottom-color: $brick;
+}
+
+.synthesis-map > *:nth-child(3n) {
+  border-bottom-color: $gold;
+}
+
+.synthesis-map p {
+  font-size: 0.65em;
+  line-height: 1.24;
+  margin: 0.15em 0;
+}
+
+/* Bounded figure utilities: canonical API for the rebuilt decks */
+.figure-height-sm img {
+  max-height: 280px;
+}
+
+.figure-height-md img {
+  max-height: 360px;
+}
+
+.figure-height-lg img {
+  max-height: 430px;
+}
+
+.figure-height-sm,
+.figure-height-md,
+.figure-height-lg {
+  min-width: 0;
+  overflow: hidden;
+}
+
+.figure-height-sm img,
+.figure-height-md img,
+.figure-height-lg img {
+  margin-inline: auto;
+  width: 100%;
+}
+
+/* Compact helpers and compatibility aliases for the pre-rewrite smoke deck */
+.small {
+  font-size: 0.62em;
+}
+
+.tiny {
+  font-size: 0.52em;
+}
+
+.compact ul,
+.agenda ul {
+  font-size: 0.72em;
+  line-height: 1.2;
+}
+
+.compact li,
+.agenda li {
+  margin-bottom: 0.18em;
+}
+
+.grid-2,
+.grid-3,
+.grid-4,
+.grid-5,
+.two-col {
+  display: grid;
+  gap: 0.65em;
+}
+
+.grid-2,
+.two-col {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-5 {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-2 > *,
+.grid-3 > *,
+.grid-4 > *,
+.grid-5 > *,
+.two-col > * {
+  min-width: 0;
+}
+
+.card,
+.metric,
+.teaching-note,
+.question {
+  background: $paper-raised;
+  border: 1px solid $rule;
+  border-left: 4px solid $blue;
+  padding: 0.5em 0.6em;
+}
+
+.card-title,
+.card h3,
+.metric h3 {
+  color: $ink;
+  font-family: Aptos, "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.72em;
+  font-weight: 650;
+  margin: 0 0 0.25em;
+}
+
+.card p,
+.metric p {
+  font-size: 0.67em;
+  line-height: 1.22;
+  margin: 0.15em 0;
+}
+
+.metric .value {
+  color: $brick;
+  display: block;
+  font-size: 1em;
+  font-weight: 800;
+}
+
+.tag {
+  border: 1px solid rgba($blue, 0.45);
+  color: $blue;
+  display: inline-block;
+  font-size: 0.52em;
+  font-weight: 700;
+  padding: 0.12em 0.45em;
+}
+
+.fig img,
+.tall-fig img {
+  max-height: 430px;
+  width: 100%;
+}
+
+.short-fig img {
+  max-height: 280px;
+}
+
+.evidence img {
+  background: $paper-raised;
+  border: 1px solid $rule;
+  padding: 5px;
+}
+
+.warn {
+  color: $brick;
+  font-weight: 750;
+}
+
+.good {
+  color: $blue;
+  font-weight: 750;
+}
+
+/* Lecture 2 asymmetric-information mechanisms: local, static diagrams. */
+.reveal .slides section .asym-diagram {
+  display: grid;
+  gap: 0.72em;
+  margin: 0.12em 0 0;
+  min-height: 442px;
+  min-width: 0;
+  position: relative;
+}
+
+.reveal .slides section .asym-unravel {
+  grid-template-columns: minmax(155px, 0.72fr) minmax(210px, 1fr) minmax(190px, 0.92fr) minmax(190px, 0.88fr);
+  grid-template-rows: 76px 76px 70px 66px 58px;
+}
+
+.reveal .slides section .asym-equity-wedge {
+  grid-template-columns: minmax(190px, 0.8fr) minmax(300px, 1.25fr) minmax(210px, 0.9fr);
+  grid-template-rows: 72px 110px 62px 62px 56px;
+}
+
+.reveal .slides section .asym-debt-fork {
+  grid-template-columns: minmax(190px, 0.85fr) minmax(215px, 0.95fr) minmax(210px, 0.92fr) minmax(220px, 1fr);
+  grid-template-rows: 62px 91px 91px 56px 64px;
+}
+
+.reveal .slides section .asym-diagram > :not(.asym-connectors) {
+  background: $paper-raised;
+  border: 1px solid rgba($blue, 0.38);
+  border-left: 4px solid $blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0;
+  padding: 0.34em 0.46em;
+  position: relative;
+  z-index: 2;
+}
+
+.reveal .slides section .asym-diagram p {
+  font-size: 16px;
+  line-height: 1.16;
+  margin: 0.05em 0;
+}
+
+.reveal .slides section .asym-diagram strong {
+  font-size: 1em;
+}
+
+.reveal .slides section .asym-diagram .asym-interrupt,
+.reveal .slides section .asym-diagram .asym-governance,
+.reveal .slides section .asym-diagram .asym-debt-controls {
+  background: rgba($gold, 0.13);
+  border-color: rgba($gold, 0.72);
+  border-left-color: $gold;
+}
+
+.reveal .slides section .asym-diagram .asym-good-firm,
+.reveal .slides section .asym-diagram .safe-path,
+.reveal .slides section .asym-diagram .asym-success {
+  border-left-color: $blue;
+}
+
+.reveal .slides section .asym-diagram .asym-good-firm,
+.reveal .slides section .asym-diagram .asym-bad-firm {
+  border-top: 3px dashed $brick;
+}
+
+.reveal .slides section .asym-diagram .asym-bad-firm,
+.reveal .slides section .asym-diagram .asym-good-exit,
+.reveal .slides section .asym-diagram .asym-bad-stay,
+.reveal .slides section .asym-diagram .asym-remaining-pool,
+.reveal .slides section .asym-diagram .asym-hidden-actions,
+.reveal .slides section .asym-diagram .asym-effort-cost,
+.reveal .slides section .asym-diagram .asym-behaviour,
+.reveal .slides section .asym-diagram .risk-path,
+.reveal .slides section .asym-diagram .asym-failure,
+.reveal .slides section .asym-diagram .asym-risk-shifting {
+  border-left-color: $brick;
+}
+
+.reveal .slides section .asym-diagram .asym-connectors {
+  background: transparent;
+  border: 0;
+  inset: 0;
+  display: none;
+}
+
+.reveal .slides section .asym-diagram .asym-gutter-arrow-right::after,
+.reveal .slides section .asym-diagram .asym-gutter-arrow-left::before,
+.reveal .slides section .asym-diagram .asym-gutter-arrow-down::after,
+.reveal .slides section .asym-diagram .asym-gutter-arrow-up::before,
+.reveal .slides section .asym-diagram .asym-gutter-arrow-right-double::before,
+.reveal .slides section .asym-diagram .asym-gutter-arrow-right-double::after {
+  color: $blue;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 1;
+  position: absolute;
+  z-index: 4;
+}
+
+.reveal .slides section .asym-diagram .asym-gutter-arrow-right::after {
+  content: "→";
+  right: -22px;
+  top: calc(50% - 12px);
+}
+
+.reveal .slides section .asym-diagram .asym-gutter-arrow-left::before {
+  content: "←";
+  left: -22px;
+  top: calc(50% - 12px);
+}
+
+.reveal .slides section .asym-diagram .asym-gutter-arrow-down::after {
+  bottom: -23px;
+  content: "↓";
+  left: calc(50% - 7px);
+}
+
+.reveal .slides section .asym-diagram .asym-gutter-arrow-up::before {
+  content: "↑";
+  left: calc(50% - 7px);
+  top: -23px;
+}
+
+.reveal .slides section .asym-diagram .asym-gutter-arrow-right-double::before,
+.reveal .slides section .asym-diagram .asym-gutter-arrow-right-double::after {
+  content: "→";
+  right: -22px;
+}
+.reveal .slides section .asym-diagram .asym-gutter-arrow-right-double::before { top: calc(25% - 12px); }
+.reveal .slides section .asym-diagram .asym-gutter-arrow-right-double::after { top: calc(75% - 12px); }
+
+.reveal .slides section .asym-diagram .asym-arrow-brick::before,
+.reveal .slides section .asym-diagram .asym-arrow-brick::after { color: $brick; }
+.reveal .slides section .asym-diagram .asym-arrow-gold::before,
+.reveal .slides section .asym-diagram .asym-arrow-gold::after { color: $gold; }
+
+.reveal .slides section .asym-diagram .asym-edge {
+  border-top: 3px solid $blue;
+  display: block;
+  height: 0;
+  position: absolute;
+}
+
+.reveal .slides section .asym-diagram .asym-edge::after {
+  border-bottom: 7px solid transparent;
+  border-left: 11px solid $blue;
+  border-top: 7px solid transparent;
+  content: "";
+  position: absolute;
+  right: -1px;
+  top: -8px;
+}
+
+.reveal .slides section .asym-diagram .asym-edge-problem {
+  border-color: $brick;
+}
+
+.reveal .slides section .asym-diagram .asym-edge-problem::after {
+  border-left-color: $brick;
+}
+
+.reveal .slides section .asym-diagram .asym-edge-control {
+  border-color: $gold;
+  border-top-style: dashed;
+}
+
+.reveal .slides section .asym-diagram .asym-edge-control::after {
+  border-left-color: $gold;
+}
+
+.reveal .slides section .asym-unravel .asym-pool { grid-column: 2; grid-row: 1 / span 2; }
+.reveal .slides section .asym-unravel .asym-good-firm { grid-column: 1; grid-row: 1; }
+.reveal .slides section .asym-unravel .asym-bad-firm { grid-column: 1; grid-row: 2; }
+.reveal .slides section .asym-unravel .asym-pooling-price { grid-column: 3; grid-row: 1 / span 2; text-align: center; }
+.reveal .slides section .asym-unravel .asym-good-exit { grid-column: 4; grid-row: 1; }
+.reveal .slides section .asym-unravel .asym-bad-stay { grid-column: 4; grid-row: 2; }
+.reveal .slides section .asym-unravel .asym-remaining-pool { grid-column: 4; grid-row: 3; }
+.reveal .slides section .asym-unravel .asym-unravel-loop {
+  background: transparent;
+  border: 2px dashed $brick;
+  color: $brick;
+  grid-column: 1 / span 4;
+  grid-row: 4;
+  text-align: center;
+}
+.reveal .slides section .asym-unravel .asym-interrupt { grid-column: 1 / span 4; grid-row: 5; text-align: center; }
+
+.reveal .slides section .asym-unravel .asym-edge-good-to-pool { left: 16%; top: 9%; width: 3%; }
+.reveal .slides section .asym-unravel .asym-edge-bad-to-pool { left: 16%; top: 27%; width: 3%; }
+.reveal .slides section .asym-unravel .asym-edge-pool-to-price { left: 43%; top: 18%; width: 3%; }
+.reveal .slides section .asym-unravel .asym-edge-price-to-exit { left: 69%; top: 9%; width: 3%; }
+.reveal .slides section .asym-unravel .asym-edge-price-to-stay { border-color: $brick; left: 69%; top: 27%; width: 3%; }
+.reveal .slides section .asym-unravel .asym-edge-price-to-stay::after { border-left-color: $brick; }
+.reveal .slides section .asym-unravel .asym-edge-stay-to-remaining {
+  border-left: 2px solid $brick;
+  border-top: 0;
+  height: 4%;
+  left: 86%;
+  top: 35%;
+}
+.reveal .slides section .asym-unravel .asym-edge-stay-to-remaining::after {
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 8px solid $brick;
+  bottom: -5px;
+  left: -6px;
+  right: auto;
+  top: auto;
+}
+.reveal .slides section .asym-unravel .asym-edge-remaining-to-price {
+  border-bottom: 2px dashed $brick;
+  border-left: 2px dashed $brick;
+  border-right: 2px dashed $brick;
+  border-top: 0;
+  height: 10%;
+  left: 55%;
+  top: 43%;
+  width: 32%;
+  z-index: 1;
+}
+.reveal .slides section .asym-unravel .asym-edge-remaining-to-price::after {
+  border-bottom: 5px solid transparent;
+  border-left: 0;
+  border-right: 8px solid $brick;
+  border-top: 5px solid transparent;
+  bottom: -6px;
+  left: -8px;
+  right: auto;
+  top: auto;
+}
+
+.reveal .slides section .asym-equity-wedge .asym-principal { grid-column: 1; grid-row: 1; }
+.reveal .slides section .asym-equity-wedge .ownership-bar {
+  border: 0;
+  display: flex;
+  flex-direction: row;
+  grid-column: 2;
+  grid-row: 1;
+  padding: 0;
+}
+.reveal .slides section .asym-equity-wedge .ownership-bar p { display: flex; margin: 0; width: 100%; }
+.reveal .slides section .asym-equity-wedge .ownership-90,
+.reveal .slides section .asym-equity-wedge .ownership-10 {
+  align-items: center;
+  color: $paper-raised;
+  display: flex;
+  font-size: 16px;
+  font-weight: 750;
+  justify-content: center;
+}
+.reveal .slides section .asym-equity-wedge .ownership-90 { background: $blue; flex: 9; }
+.reveal .slides section .asym-equity-wedge .ownership-10 { background: $brick; flex: 1; min-width: 76px; }
+.reveal .slides section .asym-equity-wedge .asym-agent { grid-column: 3; grid-row: 1; }
+.reveal .slides section .asym-equity-wedge .asym-hidden-actions { grid-column: 3; grid-row: 2; }
+.reveal .slides section .asym-equity-wedge .asym-effort-cost { grid-column: 1 / span 2; grid-row: 2; text-align: center; }
+.reveal .slides section .asym-equity-wedge .asym-profit-share { grid-column: 1 / span 2; grid-row: 3; text-align: center; }
+.reveal .slides section .asym-equity-wedge .asym-behaviour { grid-column: 3; grid-row: 3 / span 2; }
+.reveal .slides section .asym-equity-wedge .asym-governance { grid-column: 1 / span 3; grid-row: 5; text-align: center; }
+
+.reveal .slides section .asym-equity-wedge .asym-edge-principal-to-ownership { left: 24%; top: 8%; width: 3%; }
+.reveal .slides section .asym-equity-wedge .asym-edge-agent-to-ownership { left: 72%; top: 8%; width: 3%; transform: rotate(180deg); }
+.reveal .slides section .asym-equity-wedge .asym-edge-ownership-to-hidden {
+  border-left: 3px solid $blue;
+  border-top: 0;
+  height: 3%;
+  left: 85%;
+  top: 15%;
+}
+.reveal .slides section .asym-equity-wedge .asym-edge-ownership-to-hidden::after {
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-top: 11px solid $blue;
+  left: -8px;
+  right: auto;
+  top: calc(100% - 1px);
+}
+.reveal .slides section .asym-equity-wedge .asym-edge-hidden-to-wedge {
+  border-color: $brick;
+  left: 67%;
+  top: 36%;
+  transform: rotate(180deg);
+  width: 2%;
+}
+.reveal .slides section .asym-equity-wedge .asym-edge-hidden-to-wedge::after,
+.reveal .slides section .asym-equity-wedge .asym-edge-wedge-to-behaviour::after { border-left-color: $brick; }
+.reveal .slides section .asym-equity-wedge .asym-edge-wedge-to-behaviour { border-color: $brick; left: 67%; top: 52%; width: 2%; }
+.reveal .slides section .asym-equity-wedge .asym-edge-governance-to-hidden {
+  border-left: 3px dashed $gold;
+  border-right: 0;
+  border-top: 0;
+  height: 16%;
+  left: 53%;
+  top: 59%;
+  width: 0;
+}
+.reveal .slides section .asym-equity-wedge .asym-edge-governance-to-hidden::after {
+  border-bottom: 11px solid $gold;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-top: 0;
+  left: -8px;
+  right: auto;
+  top: -1px;
+}
+
+.reveal .slides section .asym-debt-fork .asym-lender { grid-column: 1; grid-row: 2 / span 2; }
+.reveal .slides section .asym-debt-fork .asym-debt-controls { grid-column: 1 / span 4; grid-row: 1; text-align: center; }
+.reveal .slides section .asym-debt-fork .asym-decision { grid-column: 2; grid-row: 2 / span 2; text-align: center; }
+.reveal .slides section .asym-debt-fork .safe-path { grid-column: 3; grid-row: 2; }
+.reveal .slides section .asym-debt-fork .risk-path { grid-column: 3; grid-row: 3; }
+.reveal .slides section .asym-debt-fork .asym-success { grid-column: 4; grid-row: 2; }
+.reveal .slides section .asym-debt-fork .asym-failure { grid-column: 4; grid-row: 3; }
+.reveal .slides section .asym-debt-fork .asym-risk-shifting { grid-column: 2 / span 3; grid-row: 4; text-align: center; }
+
+.reveal .slides section .asym-debt-fork .asym-edge-lender-to-decision { left: 21%; top: 42%; width: 3%; }
+.reveal .slides section .asym-debt-fork .asym-edge-controls-to-decision {
+  border-left: 3px dashed $gold;
+  border-right: 0;
+  border-top: 0;
+  height: 7%;
+  left: 35%;
+  top: 14%;
+  width: 0;
+}
+.reveal .slides section .asym-debt-fork .asym-edge-controls-to-decision::after {
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-top: 11px solid $gold;
+  left: -8px;
+  right: auto;
+  top: calc(100% - 1px);
+}
+.reveal .slides section .asym-debt-fork .asym-edge-decision-to-safe {
+  border-left: 0 solid transparent;
+  left: 48.5%;
+  top: 31%;
+  width: 2%;
+}
+.reveal .slides section .asym-debt-fork .asym-edge-decision-to-risk {
+  border-color: $brick;
+  border-left: 0 solid transparent;
+  left: 48.5%;
+  top: 52%;
+  width: 2%;
+}
+.reveal .slides section .asym-debt-fork .asym-edge-decision-to-risk::after,
+.reveal .slides section .asym-debt-fork .asym-edge-risk-to-failure::after { border-left-color: $brick; }
+.reveal .slides section .asym-debt-fork .asym-edge-safe-to-success { left: 73%; top: 31%; width: 3%; }
+.reveal .slides section .asym-debt-fork .asym-edge-risk-to-failure { border-color: $brick; left: 73%; top: 52%; width: 3%; }
+
+@media (max-width: 900px) {
+  .editorial-grid,
+  .editorial-grid[data-columns="2"],
+  .editorial-grid[data-columns="3"],
+  .evidence-layout.two-column,
+  .evidence-layout[data-columns="2"],
+  .activity {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

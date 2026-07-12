@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="486pt" viewBox="0 0 864 486" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>summer-school/scripts/make_figures.py</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 486 
+L 864 486 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f7f3ea"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 155.52 403.38 
+L 812.16 403.38 
+L 812.16 111.78 
+L 155.52 111.78 
+z
+" style="fill: #f7f3ea"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 155.52 403.38 
+L 155.52 111.78 
+" clip-path="url(#p6c9174fb49)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="155.52" y="418.738281" transform="rotate(-0 155.52 418.738281)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 235.598049 403.38 
+L 235.598049 111.78 
+" clip-path="url(#p6c9174fb49)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="235.598049" y="418.738281" transform="rotate(-0 235.598049 418.738281)">25</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 315.676098 403.38 
+L 315.676098 111.78 
+" clip-path="url(#p6c9174fb49)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="315.676098" y="418.738281" transform="rotate(-0 315.676098 418.738281)">50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 395.754146 403.38 
+L 395.754146 111.78 
+" clip-path="url(#p6c9174fb49)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="395.754146" y="418.738281" transform="rotate(-0 395.754146 418.738281)">75</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 475.832195 403.38 
+L 475.832195 111.78 
+" clip-path="url(#p6c9174fb49)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="475.832195" y="418.738281" transform="rotate(-0 475.832195 418.738281)">100</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 555.910244 403.38 
+L 555.910244 111.78 
+" clip-path="url(#p6c9174fb49)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="555.910244" y="418.738281" transform="rotate(-0 555.910244 418.738281)">125</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 635.988293 403.38 
+L 635.988293 111.78 
+" clip-path="url(#p6c9174fb49)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_7">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="635.988293" y="418.738281" transform="rotate(-0 635.988293 418.738281)">150</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 716.066341 403.38 
+L 716.066341 111.78 
+" clip-path="url(#p6c9174fb49)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_8">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="716.066341" y="418.738281" transform="rotate(-0 716.066341 418.738281)">175</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 796.14439 403.38 
+L 796.14439 111.78 
+" clip-path="url(#p6c9174fb49)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18"/>
+     <g id="text_9">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="796.14439" y="418.738281" transform="rotate(-0 796.14439 418.738281)">200</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="483.84" y="433.384219" transform="rotate(-0 483.84 433.384219)">Custody balance, RMB trillion</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_19"/>
+     <g id="text_11">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="148.52" y="176.794106" transform="rotate(-0 148.52 176.794106)">Interbank</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_20"/>
+     <g id="text_12">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="148.52" y="346.724176" transform="rotate(-0 148.52 346.724176)">Exchange</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 155.52 125.034545 
+L 705.496039 125.034545 
+L 705.496039 220.195385 
+L 155.52 220.195385 
+z
+" clip-path="url(#p6c9174fb49)" style="fill: #4b718a"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 155.52 294.964615 
+L 228.871493 294.964615 
+L 228.871493 390.125455 
+L 155.52 390.125455 
+z
+" clip-path="url(#p6c9174fb49)" style="fill: #c59a45"/>
+   </g>
+   <g id="text_13">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="715.345639" y="175.607309" transform="rotate(-0 715.345639 175.607309)">171.7tn custody</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="238.721093" y="345.537379" transform="rotate(-0 238.721093 345.537379)">22.9tn custody</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #f7f3ea; font: 10px 'DejaVu Sans'; text-anchor: start" x="161.926244" y="209.360354" transform="rotate(-0 161.926244 209.360354)">October cash-bond turnover: RMB 26.6tn</text>
+   </g>
+   <g id="text_16">
+    <text style="fill: #172132; font: 10px 'DejaVu Sans'; text-anchor: start" x="161.926244" y="379.290424" transform="rotate(-0 161.926244 379.290424)">October cash-bond turnover: RMB 3.3tn</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #6f746f; font: 10.5px 'DejaVu Sans'; text-anchor: start" x="155.52" y="105.948" transform="rotate(-0 155.52 105.948)">Bond-market venue comparison, end-/during October 2025</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #172132; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="155.52" y="87.78" transform="rotate(-0 155.52 87.78)">The interbank venue dominates custody and trading</text>
+   </g>
+  </g>
+  <g id="text_19">
+   <text style="fill: #6f746f; font: 9px 'DejaVu Sans'; text-anchor: end" x="812.16" y="468.99" transform="rotate(-0 812.16 468.99)">Source: PBOC, Financial Market Operations, Oct. 2025</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6c9174fb49">
+   <rect x="155.52" y="111.78" width="656.64" height="291.6"/>
+  </clipPath>
+ </defs>
+</svg>

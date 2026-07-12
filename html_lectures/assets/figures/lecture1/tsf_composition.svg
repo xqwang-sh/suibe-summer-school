@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="486pt" viewBox="0 0 864 486" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>make_lecture1_figures.py</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 486 
+L 864 486 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f7f3ea"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 69.12 388.8 
+L 820.8 388.8 
+L 820.8 136.08 
+L 69.12 136.08 
+z
+" style="fill: #f7f3ea"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 69.12 388.8 
+L 69.12 136.08 
+" clip-path="url(#pa86eb5e21d)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="69.12" y="403.673594" transform="rotate(-0 69.12 403.673594)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 257.04 388.8 
+L 257.04 136.08 
+" clip-path="url(#pa86eb5e21d)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="257.04" y="403.673594" transform="rotate(-0 257.04 403.673594)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 444.96 388.8 
+L 444.96 136.08 
+" clip-path="url(#pa86eb5e21d)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="444.96" y="403.673594" transform="rotate(-0 444.96 403.673594)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 632.88 388.8 
+L 632.88 136.08 
+" clip-path="url(#pa86eb5e21d)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="632.88" y="403.673594" transform="rotate(-0 632.88 403.673594)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 820.8 388.8 
+L 820.8 136.08 
+" clip-path="url(#pa86eb5e21d)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="820.8" y="403.673594" transform="rotate(-0 820.8 403.673594)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 69.12 316.974316 
+L 525.38976 316.974316 
+L 525.38976 269.090526 
+L 69.12 269.090526 
+z
+" clip-path="url(#pa86eb5e21d)" style="fill: #4b718a"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 525.38976 316.974316 
+L 687.00096 316.974316 
+L 687.00096 269.090526 
+L 525.38976 269.090526 
+z
+" clip-path="url(#pa86eb5e21d)" style="fill: #c9583e"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 687.00096 316.974316 
+L 744.88032 316.974316 
+L 744.88032 269.090526 
+L 687.00096 269.090526 
+z
+" clip-path="url(#pa86eb5e21d)" style="fill: #c59a45"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 744.88032 316.974316 
+L 765.92736 316.974316 
+L 765.92736 269.090526 
+L 744.88032 269.090526 
+z
+" clip-path="url(#pa86eb5e21d)" style="fill: #172132"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 765.92736 316.974316 
+L 820.8 316.974316 
+L 820.8 269.090526 
+L 765.92736 269.090526 
+z
+" clip-path="url(#pa86eb5e21d)" style="fill: #6f746f"/>
+   </g>
+   <g id="text_6">
+    <text style="fill: #f7f3ea; font: 700 9px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="297.25488" y="295.361171" transform="rotate(-0 297.25488 295.361171)">RMB loans to real economy · 60.7%</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 606.19536 239.68357 
+Q 606.19536 252.722923 606.19536 265.762276 
+" style="fill: none; stroke: #6f746f; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="fill: #172132; font: 700 8.4px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="606.19536" y="234.025016" transform="rotate(-0 606.19536 234.025016)">Government bonds · 21.5%</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 680.613225 204.902082 
+Q 697.786394 235.458432 714.959562 266.014782 
+" style="fill: none; stroke: #6f746f; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="fill: #172132; font: 700 8.4px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: end" x="723.45744" y="199.493467" transform="rotate(-0 723.45744 199.493467)">Corporate bonds · 7.7%</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 707.495832 167.768102 
+Q 731.017804 216.862536 754.539777 265.956971 
+" style="fill: none; stroke: #6f746f; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="fill: #172132; font: 700 8.4px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: end" x="805.7664" y="162.195395" transform="rotate(-0 805.7664 162.195395)">Domestic equity of non-financial enterprises · 2.8%</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 762.374194 349.566954 
+Q 777.164373 334.64646 791.954551 319.725966 
+" style="fill: none; stroke: #6f746f; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="fill: #172132; font: 700 8.4px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: end" x="805.7664" y="359.106099" transform="rotate(-0 805.7664 359.106099)">Other components · 7.3%</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #172132; font: 700 13px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start" x="69.12" y="75.4272" transform="rotate(-0 69.12 75.4272)">China · 2025</text>
+   </g>
+   <g id="text_12">
+    <text style="fill: #6f746f; font: 10px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start" x="69.12" y="98.172" transform="rotate(-0 69.12 98.172)">Percent of TSF stock</text>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="fill: #6f746f; font: 8.8px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: end" x="833.76" y="472.392" transform="rotate(-0 833.76 472.392)">Source: PBOC</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa86eb5e21d">
+   <rect x="69.12" y="136.08" width="751.68" height="252.72"/>
+  </clipPath>
+ </defs>
+</svg>

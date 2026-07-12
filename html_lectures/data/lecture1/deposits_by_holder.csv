@@ -1,0 +1,3 @@
+series,economy,period,value,unit,source_id
+Household RMB deposits,China,2025-11,163.3084,RMB trillion,deposits_by_holder
+Non-financial enterprise RMB deposits,China,2025-11,79.3387,RMB trillion,deposits_by_holder

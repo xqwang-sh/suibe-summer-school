@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="486pt" viewBox="0 0 864 486" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>summer-school/scripts/make_figures.py</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 486 
+L 864 486 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f7f3ea"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 216 413.1 
+L 803.52 413.1 
+L 803.52 106.92 
+L 216 106.92 
+z
+" style="fill: #f7f3ea"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 216 413.1 
+L 216 106.92 
+" clip-path="url(#p08ae3d5c2c)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="216" y="428.458281" transform="rotate(-0 216 428.458281)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 289.44 413.1 
+L 289.44 106.92 
+" clip-path="url(#p08ae3d5c2c)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="289.44" y="428.458281" transform="rotate(-0 289.44 428.458281)">2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 362.88 413.1 
+L 362.88 106.92 
+" clip-path="url(#p08ae3d5c2c)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="362.88" y="428.458281" transform="rotate(-0 362.88 428.458281)">4</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 436.32 413.1 
+L 436.32 106.92 
+" clip-path="url(#p08ae3d5c2c)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="436.32" y="428.458281" transform="rotate(-0 436.32 428.458281)">6</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 509.76 413.1 
+L 509.76 106.92 
+" clip-path="url(#p08ae3d5c2c)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="509.76" y="428.458281" transform="rotate(-0 509.76 428.458281)">8</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 583.2 413.1 
+L 583.2 106.92 
+" clip-path="url(#p08ae3d5c2c)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="583.2" y="428.458281" transform="rotate(-0 583.2 428.458281)">10</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 656.64 413.1 
+L 656.64 106.92 
+" clip-path="url(#p08ae3d5c2c)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_7">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="656.64" y="428.458281" transform="rotate(-0 656.64 428.458281)">12</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 730.08 413.1 
+L 730.08 106.92 
+" clip-path="url(#p08ae3d5c2c)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_8">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="730.08" y="428.458281" transform="rotate(-0 730.08 428.458281)">14</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 803.52 413.1 
+L 803.52 106.92 
+" clip-path="url(#p08ae3d5c2c)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18"/>
+     <g id="text_9">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="803.52" y="428.458281" transform="rotate(-0 803.52 428.458281)">16</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="509.76" y="443.104219" transform="rotate(-0 509.76 443.104219)">Assets under management, RMB trillion</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_19"/>
+     <g id="text_11">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="209" y="155.460447" transform="rotate(-0 209 155.460447)">Private equity funds</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_20"/>
+     <g id="text_12">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="209" y="264.189141" transform="rotate(-0 209 264.189141)">Private securities funds</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_21"/>
+     <g id="text_13">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="209" y="372.917834" transform="rotate(-0 209 372.917834)">Venture capital funds</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 216 120.837273 
+L 626.8968 120.837273 
+L 626.8968 181.725341 
+L 216 181.725341 
+z
+" clip-path="url(#p08ae3d5c2c)" style="fill: #c9583e"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 216 229.565966 
+L 475.9776 229.565966 
+L 475.9776 290.454034 
+L 216 290.454034 
+z
+" clip-path="url(#p08ae3d5c2c)" style="fill: #4b718a"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 216 338.294659 
+L 347.4576 338.294659 
+L 347.4576 399.182727 
+L 216 399.182727 
+z
+" clip-path="url(#p08ae3d5c2c)" style="fill: #c59a45"/>
+   </g>
+   <g id="text_14">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="635.7096" y="154.187713" transform="rotate(-0 635.7096 154.187713)">RMB 11.19tn  |  29,820 funds</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="484.7904" y="262.916406" transform="rotate(-0 484.7904 262.916406)">RMB 7.08tn  |  80,390 funds</text>
+   </g>
+   <g id="text_16">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="356.2704" y="371.645099" transform="rotate(-0 356.2704 371.645099)">RMB 3.58tn  |  27,342 funds</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #6f746f; font: 10.5px 'DejaVu Sans'; text-anchor: start" x="216" y="100.7964" transform="rotate(-0 216 100.7964)">Surviving registered funds and managed AUM at end-2025</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #172132; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="216" y="82.92" transform="rotate(-0 216 82.92)">Private equity is the largest private-fund category</text>
+   </g>
+  </g>
+  <g id="text_19">
+   <text style="fill: #6f746f; font: 9px 'DejaVu Sans'; text-anchor: end" x="803.52" y="468.99" transform="rotate(-0 803.52 468.99)">Source: AMAC, Private Fund Monthly Report, Dec. 2025</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p08ae3d5c2c">
+   <rect x="216" y="106.92" width="587.52" height="306.18"/>
+  </clipPath>
+ </defs>
+</svg>

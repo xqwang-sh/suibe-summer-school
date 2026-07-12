@@ -1,0 +1,3 @@
+series,economy,period,value,unit,source_id
+AFRE annual flow,China,2025,35.6,RMB trillion,tsf_total
+AFRE year-end stock,China,2025,442.1,RMB trillion,tsf_total

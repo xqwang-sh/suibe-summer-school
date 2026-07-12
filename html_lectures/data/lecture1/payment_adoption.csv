@@ -1,0 +1,35 @@
+series,economy,period,value,unit,source_id
+Online payment users,China,2007,33.0,million users,payment_adoption
+Online payment utilization rate,China,2007,15.8,percent of internet users,payment_adoption
+Online payment users,China,2008,52.0,million users,payment_adoption
+Online payment utilization rate,China,2008,17.6,percent of internet users,payment_adoption
+Online payment users,China,2009,94.06,million users,payment_adoption
+Online payment utilization rate,China,2009,24.5,percent of internet users,payment_adoption
+Online payment users,China,2010,137.19,million users,payment_adoption
+Online payment utilization rate,China,2010,30.0,percent of internet users,payment_adoption
+Online payment users,China,2011,166.76,million users,payment_adoption
+Online payment utilization rate,China,2011,32.5,percent of internet users,payment_adoption
+Online payment users,China,2012,220.65,million users,payment_adoption
+Online payment utilization rate,China,2012,39.1,percent of internet users,payment_adoption
+Online payment users,China,2013,260.2,million users,payment_adoption
+Online payment utilization rate,China,2013,42.1,percent of internet users,payment_adoption
+Online payment users,China,2014,304.31,million users,payment_adoption
+Online payment utilization rate,China,2014,46.9,percent of internet users,payment_adoption
+Online payment users,China,2015,416.18,million users,payment_adoption
+Online payment utilization rate,China,2015,60.5,percent of internet users,payment_adoption
+Online payment users,China,2016,474.5,million users,payment_adoption
+Online payment utilization rate,China,2016,64.9,percent of internet users,payment_adoption
+Online payment users,China,2017,531.1,million users,payment_adoption
+Online payment utilization rate,China,2017,68.8,percent of internet users,payment_adoption
+Online payment users,China,2018,600.4,million users,payment_adoption
+Online payment utilization rate,China,2018,72.5,percent of internet users,payment_adoption
+Online payment users,China,2020,854.34,million users,payment_adoption
+Online payment utilization rate,China,2020,86.4,percent of internet users,payment_adoption
+Online payment users,China,2021,903.63,million users,payment_adoption
+Online payment utilization rate,China,2021,87.6,percent of internet users,payment_adoption
+Online payment users,China,2022,911.44,million users,payment_adoption
+Online payment utilization rate,China,2022,85.4,percent of internet users,payment_adoption
+Online payment users,China,2023,953.86,million users,payment_adoption
+Online payment utilization rate,China,2023,87.3,percent of internet users,payment_adoption
+Online payment users,China,2024,1028.91,million users,payment_adoption
+Online payment utilization rate,China,2024,92.8,percent of internet users,payment_adoption

@@ -1,0 +1,105 @@
+series,economy,period,value,unit,source_id
+Credit to private non-financial sector,China,2000,104.5,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2001,96.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2002,110.5,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2003,118.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2004,114.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2005,108.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2006,109.2,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2007,107.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2008,106.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2009,133.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2010,137.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2011,137.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2012,149.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2013,161.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2014,171.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2015,186.7,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2016,188.5,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2017,182.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2018,177.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2019,179.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2020,192.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2021,182.5,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2022,187.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2023,193.0,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2024,197.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,China,2025,200.8,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2000,136.7,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2001,141.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2002,145.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2003,149.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2004,153.2,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2005,157.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2006,163.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2007,170.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2008,170.7,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2009,169.2,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2010,160.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2011,155.8,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2012,152.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2013,151.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2014,150.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2015,150.5,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2016,152.2,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2017,153.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2018,153.2,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2019,152.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2020,164.1,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2021,159.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2022,153.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2023,147.1,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2024,142.5,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,United States,2025,140.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2000,125.0,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2001,128.8,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2002,131.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2003,134.2,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2004,137.1,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2005,142.1,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2006,146.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2007,153.1,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2008,158.2,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2009,168.7,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2010,168.7,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2011,169.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2012,170.5,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2013,167.8,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2014,168.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2015,169.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2016,169.7,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2017,168.0,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2018,166.8,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2019,166.7,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2020,183.5,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2021,175.7,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2022,168.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2023,159.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2024,156.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Euro area,2025,153.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2000,184.7,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2001,180.1,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2002,176.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2003,169.0,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2004,162.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2005,162.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2006,161.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2007,159.2,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2008,164.1,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2009,170.8,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2010,161.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2011,162.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2012,160.1,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2013,158.5,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2014,155.7,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2015,151.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2016,153.2,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2017,153.5,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2018,156.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2019,161.4,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2020,179.6,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2021,178.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2022,179.0,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2023,174.9,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2024,174.3,percent of GDP,private_credit_gdp
+Credit to private non-financial sector,Japan,2025,175.1,percent of GDP,private_credit_gdp

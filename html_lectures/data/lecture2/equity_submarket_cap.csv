@@ -1,0 +1,50 @@
+submarket,period,value,unit,scope,source_id
+Main Boards,2005,3.243033,RMB trillion,year-end total market capitalization,equity_main_boards_2005_2006
+Main Boards,2006,8.940388,RMB trillion,year-end total market capitalization,equity_main_boards_2005_2006
+Main Boards,2007,32.729127,RMB trillion,year-end total market capitalization,equity_main_boards_2007_2016
+Main Boards,2008,12.154111,RMB trillion,year-end total market capitalization,equity_main_boards_2007_2016
+Main Boards,2009,24.249383,RMB trillion,year-end total market capitalization,equity_main_boards_2007_2016
+Main Boards,2010,25.805734,RMB trillion,year-end total market capitalization,equity_main_boards_2007_2016
+Main Boards,2011,20.732432,RMB trillion,year-end total market capitalization,equity_main_boards_2007_2016
+Main Boards,2012,22.162634,RMB trillion,year-end total market capitalization,equity_main_boards_2007_2016
+Main Boards,2013,22.398517,RMB trillion,year-end total market capitalization,equity_main_boards_2007_2016
+Main Boards,2014,35.069602,RMB trillion,year-end total market capitalization,equity_main_boards_2007_2016
+Main Boards,2015,47.538800,RMB trillion,year-end total market capitalization,equity_main_boards_2007_2016
+Main Boards,2016,45.543143,RMB trillion,year-end total market capitalization,equity_main_boards_2007_2016
+Main Boards,2017,51.57972630,RMB trillion,year-end total market capitalization,equity_main_boards_2017_history
+Main Boards,2018,39.44644398,RMB trillion,year-end total market capitalization,equity_main_boards_2018_history
+Main Boards,2019,52.29493065,RMB trillion,year-end total market capitalization,equity_main_boards_2019
+Main Boards,2020,65.44089178,RMB trillion,year-end total market capitalization,equity_main_boards_2020
+Main Boards,2021,71.95423200,RMB trillion,year-end total market capitalization,equity_main_boards_2021
+Main Boards,2022,61.71335891,RMB trillion,year-end total market capitalization,equity_main_boards_2022
+Main Boards,2023,59.77793736,RMB trillion,year-end total market capitalization,equity_main_boards_2023
+Main Boards,2024,66.67507987,RMB trillion,year-end total market capitalization,equity_main_boards_2024
+Main Boards,2025,79.970453,RMB trillion,year-end total market capitalization,equity_main_boards_2025
+STAR Market,2019,0.863764,RMB trillion,year-end total market capitalization,equity_star_2019
+STAR Market,2020,3.349072,RMB trillion,year-end total market capitalization,equity_star_2020
+STAR Market,2021,5.630556,RMB trillion,year-end total market capitalization,equity_star_2021
+STAR Market,2022,5.815096,RMB trillion,year-end total market capitalization,equity_star_2022
+STAR Market,2023,6.161742,RMB trillion,year-end total market capitalization,equity_star_2023
+STAR Market,2024,6.342900,RMB trillion,year-end total market capitalization,equity_star_2024
+STAR Market,2025,10.3196,RMB trillion,year-end total market capitalization,equity_star_2025
+ChiNext,2010,0.73652189,RMB trillion,year-end total market capitalization,equity_chinext_2010_2017
+ChiNext,2011,0.74337922,RMB trillion,year-end total market capitalization,equity_chinext_2010_2017
+ChiNext,2012,0.87312046,RMB trillion,year-end total market capitalization,equity_chinext_2010_2017
+ChiNext,2013,1.50919785,RMB trillion,year-end total market capitalization,equity_chinext_2010_2017
+ChiNext,2014,2.18509493,RMB trillion,year-end total market capitalization,equity_chinext_2010_2017
+ChiNext,2015,5.59162478,RMB trillion,year-end total market capitalization,equity_chinext_2010_2017
+ChiNext,2016,5.22545043,RMB trillion,year-end total market capitalization,equity_chinext_2010_2017
+ChiNext,2017,5.12888135,RMB trillion,year-end total market capitalization,equity_chinext_2010_2017
+ChiNext,2018,4.04595874,RMB trillion,year-end total market capitalization,equity_chinext_2018_2024
+ChiNext,2019,6.13476185,RMB trillion,year-end total market capitalization,equity_chinext_2018_2024
+ChiNext,2020,10.93385407,RMB trillion,year-end total market capitalization,equity_chinext_2018_2024
+ChiNext,2021,14.02403038,RMB trillion,year-end total market capitalization,equity_chinext_2018_2024
+ChiNext,2022,11.27213588,RMB trillion,year-end total market capitalization,equity_chinext_2018_2024
+ChiNext,2023,11.37339152,RMB trillion,year-end total market capitalization,equity_chinext_2018_2024
+ChiNext,2024,12.45407225,RMB trillion,year-end total market capitalization,equity_chinext_2018_2024
+ChiNext,2025,17.727883,RMB trillion,year-end total market capitalization,equity_chinext_2025
+Beijing Stock Exchange,2021,0.272275,RMB trillion,year-end total market capitalization,equity_bse_2021
+Beijing Stock Exchange,2022,0.211029,RMB trillion,year-end total market capitalization,equity_bse_2022_2023
+Beijing Stock Exchange,2023,0.449641,RMB trillion,year-end total market capitalization,equity_bse_2022_2023
+Beijing Stock Exchange,2024,0.538601,RMB trillion,year-end total market capitalization,equity_bse_2024
+Beijing Stock Exchange,2025,0.8694,RMB trillion,year-end total market capitalization,equity_bse_2025

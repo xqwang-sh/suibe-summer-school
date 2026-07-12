@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="486pt" viewBox="0 0 864 486" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>make_lecture1_figures.py</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 486 
+L 864 486 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f7f3ea"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 259.2 388.8 
+L 812.16 388.8 
+L 812.16 106.92 
+L 259.2 106.92 
+z
+" style="fill: #f7f3ea"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 259.2 388.8 
+L 259.2 106.92 
+" clip-path="url(#pb6128e8042)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="259.2" y="403.673594" transform="rotate(-0 259.2 403.673594)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 333.497077 388.8 
+L 333.497077 106.92 
+" clip-path="url(#pb6128e8042)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="333.497077" y="403.673594" transform="rotate(-0 333.497077 403.673594)">50</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 407.794154 388.8 
+L 407.794154 106.92 
+" clip-path="url(#pb6128e8042)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="407.794154" y="403.673594" transform="rotate(-0 407.794154 403.673594)">100</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 482.091231 388.8 
+L 482.091231 106.92 
+" clip-path="url(#pb6128e8042)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="482.091231" y="403.673594" transform="rotate(-0 482.091231 403.673594)">150</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 556.388308 388.8 
+L 556.388308 106.92 
+" clip-path="url(#pb6128e8042)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="556.388308" y="403.673594" transform="rotate(-0 556.388308 403.673594)">200</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 630.685386 388.8 
+L 630.685386 106.92 
+" clip-path="url(#pb6128e8042)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="630.685386" y="403.673594" transform="rotate(-0 630.685386 403.673594)">250</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 704.982463 388.8 
+L 704.982463 106.92 
+" clip-path="url(#pb6128e8042)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_7">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="704.982463" y="403.673594" transform="rotate(-0 704.982463 403.673594)">300</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 779.27954 388.8 
+L 779.27954 106.92 
+" clip-path="url(#pb6128e8042)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_8">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="779.27954" y="403.673594" transform="rotate(-0 779.27954 403.673594)">350</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: middle" x="535.68" y="417.733438" transform="rotate(-0 535.68 417.733438)">Percent of 2025 nominal GDP</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_17"/>
+     <g id="text_10">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: end" x="252.2" y="165.224315" transform="rotate(-0 252.2 165.224315)">AFRE annual flow</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_18"/>
+     <g id="text_11">
+      <text style="fill: #6f746f; font: 11px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: end" x="252.2" y="338.369278" transform="rotate(-0 252.2 338.369278)">AFRE year-end stock</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 259.2 202.84231 
+L 296.934725 202.84231 
+L 296.934725 119.732727 
+L 259.2 119.732727 
+z
+" clip-path="url(#pb6128e8042)" style="fill: #c9583e"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 259.2 375.987273 
+L 727.810169 375.987273 
+L 727.810169 292.87769 
+L 259.2 292.87769 
+z
+" clip-path="url(#pb6128e8042)" style="fill: #4b718a"/>
+   </g>
+   <g id="text_12">
+    <text style="fill: #c9583e; font: 700 11.5px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start" x="305.369708" y="164.263143" transform="rotate(-0 305.369708 164.263143)">35.6 RMB tn  |  25.4%</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #6f746f; font: 9.3px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start" x="259.2" y="216.693907" transform="rotate(-0 259.2 216.693907)">flow / annual GDP</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #4b718a; font: 700 11.5px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start" x="736.245153" y="337.408107" transform="rotate(-0 736.245153 337.408107)">442.1 RMB tn  |  315.4%</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #6f746f; font: 9.3px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start" x="259.2" y="389.83887" transform="rotate(-0 259.2 389.83887)">stock / annual GDP - scale benchmark</text>
+   </g>
+   <g id="text_16">
+    <text style="fill: #172132; font: 700 13px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start" x="259.2" y="44.9064" transform="rotate(-0 259.2 44.9064)">China AFRE scale relative to the economy</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #6f746f; font: 10px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start" x="259.2" y="73.0944" transform="rotate(-0 259.2 73.0944)">2025 nominal GDP = 140.1879 RMB trillion; stock is not an annual financing rate</text>
+   </g>
+  </g>
+  <g id="text_18">
+   <text style="fill: #6f746f; font: 8.8px 'Arial', 'Helvetica Neue', 'DejaVu Sans'; text-anchor: end" x="833.76" y="472.392" transform="rotate(-0 833.76 472.392)">Source: PBOC; NBS</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb6128e8042">
+   <rect x="259.2" y="106.92" width="552.96" height="281.88"/>
+  </clipPath>
+ </defs>
+</svg>

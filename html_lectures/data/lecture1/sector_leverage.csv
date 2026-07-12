@@ -1,0 +1,97 @@
+series,economy,period,value,unit,source_id
+Household,China,2000,10,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2000,90,percent of GDP,sector_leverage
+Central government,China,2000,16,percent of GDP,sector_leverage
+Local government,China,2000,5,percent of GDP,sector_leverage
+Household,China,2001,12,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2001,88,percent of GDP,sector_leverage
+Central government,China,2001,17,percent of GDP,sector_leverage
+Local government,China,2001,6,percent of GDP,sector_leverage
+Household,China,2002,15,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2002,96,percent of GDP,sector_leverage
+Central government,China,2002,18,percent of GDP,sector_leverage
+Local government,China,2002,7,percent of GDP,sector_leverage
+Household,China,2003,19,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2003,102,percent of GDP,sector_leverage
+Central government,China,2003,20,percent of GDP,sector_leverage
+Local government,China,2003,8,percent of GDP,sector_leverage
+Household,China,2004,17,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2004,105,percent of GDP,sector_leverage
+Central government,China,2004,19,percent of GDP,sector_leverage
+Local government,China,2004,8,percent of GDP,sector_leverage
+Household,China,2005,17,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2005,100,percent of GDP,sector_leverage
+Central government,China,2005,18,percent of GDP,sector_leverage
+Local government,China,2005,9,percent of GDP,sector_leverage
+Household,China,2006,18,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2006,99,percent of GDP,sector_leverage
+Central government,China,2006,17,percent of GDP,sector_leverage
+Local government,China,2006,10,percent of GDP,sector_leverage
+Household,China,2007,19,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2007,96,percent of GDP,sector_leverage
+Central government,China,2007,20,percent of GDP,sector_leverage
+Local government,China,2007,11,percent of GDP,sector_leverage
+Household,China,2008,18,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2008,95,percent of GDP,sector_leverage
+Central government,China,2008,17,percent of GDP,sector_leverage
+Local government,China,2008,11,percent of GDP,sector_leverage
+Household,China,2009,24,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2009,116,percent of GDP,sector_leverage
+Central government,China,2009,18,percent of GDP,sector_leverage
+Local government,China,2009,16,percent of GDP,sector_leverage
+Household,China,2010,27,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2010,121,percent of GDP,sector_leverage
+Central government,China,2010,17,percent of GDP,sector_leverage
+Local government,China,2010,16,percent of GDP,sector_leverage
+Household,China,2011,28,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2011,118,percent of GDP,sector_leverage
+Central government,China,2011,15,percent of GDP,sector_leverage
+Local government,China,2011,17,percent of GDP,sector_leverage
+Household,China,2012,30,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2012,128,percent of GDP,sector_leverage
+Central government,China,2012,14,percent of GDP,sector_leverage
+Local government,China,2012,18,percent of GDP,sector_leverage
+Household,China,2013,34,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2013,136,percent of GDP,sector_leverage
+Central government,China,2013,15,percent of GDP,sector_leverage
+Local government,China,2013,21,percent of GDP,sector_leverage
+Household,China,2014,36,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2014,142,percent of GDP,sector_leverage
+Central government,China,2014,15,percent of GDP,sector_leverage
+Local government,China,2014,24,percent of GDP,sector_leverage
+Household,China,2015,39,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2015,152,percent of GDP,sector_leverage
+Central government,China,2015,16,percent of GDP,sector_leverage
+Local government,China,2015,21,percent of GDP,sector_leverage
+Household,China,2016,45,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2016,157,percent of GDP,sector_leverage
+Central government,China,2016,16,percent of GDP,sector_leverage
+Local government,China,2016,21,percent of GDP,sector_leverage
+Household,China,2017,49,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2017,157,percent of GDP,sector_leverage
+Central government,China,2017,16,percent of GDP,sector_leverage
+Local government,China,2017,20,percent of GDP,sector_leverage
+Household,China,2018,52,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2018,151,percent of GDP,sector_leverage
+Central government,China,2018,16,percent of GDP,sector_leverage
+Local government,China,2018,20,percent of GDP,sector_leverage
+Household,China,2019,56,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2019,152,percent of GDP,sector_leverage
+Central government,China,2019,17,percent of GDP,sector_leverage
+Local government,China,2019,22,percent of GDP,sector_leverage
+Household,China,2020,62,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2020,163,percent of GDP,sector_leverage
+Central government,China,2020,21,percent of GDP,sector_leverage
+Local government,China,2020,25,percent of GDP,sector_leverage
+Household,China,2021,62,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2021,154,percent of GDP,sector_leverage
+Central government,China,2021,20,percent of GDP,sector_leverage
+Local government,China,2021,27,percent of GDP,sector_leverage
+Household,China,2022,62,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2022,162,percent of GDP,sector_leverage
+Central government,China,2022,22,percent of GDP,sector_leverage
+Local government,China,2022,29,percent of GDP,sector_leverage
+Household,China,2023,64,percent of GDP,sector_leverage
+Nonfinancial corporations,China,2023,168,percent of GDP,sector_leverage
+Central government,China,2023,24,percent of GDP,sector_leverage
+Local government,China,2023,32,percent of GDP,sector_leverage

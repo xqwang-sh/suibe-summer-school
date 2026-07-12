@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="486pt" viewBox="0 0 864 486" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>summer-school/scripts/make_figures.py</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 486 
+L 864 486 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f7f3ea"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 216 417.96 
+L 812.16 417.96 
+L 812.16 106.92 
+L 216 106.92 
+z
+" style="fill: #f7f3ea"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 216 417.96 
+L 216 106.92 
+" clip-path="url(#p2fec9eaf67)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="216" y="433.318281" transform="rotate(-0 216 433.318281)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 312.154839 417.96 
+L 312.154839 106.92 
+" clip-path="url(#p2fec9eaf67)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="312.154839" y="433.318281" transform="rotate(-0 312.154839 433.318281)">10</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 408.309677 417.96 
+L 408.309677 106.92 
+" clip-path="url(#p2fec9eaf67)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="408.309677" y="433.318281" transform="rotate(-0 408.309677 433.318281)">20</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 504.464516 417.96 
+L 504.464516 106.92 
+" clip-path="url(#p2fec9eaf67)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="504.464516" y="433.318281" transform="rotate(-0 504.464516 433.318281)">30</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 600.619355 417.96 
+L 600.619355 106.92 
+" clip-path="url(#p2fec9eaf67)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="600.619355" y="433.318281" transform="rotate(-0 600.619355 433.318281)">40</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 696.774194 417.96 
+L 696.774194 106.92 
+" clip-path="url(#p2fec9eaf67)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="696.774194" y="433.318281" transform="rotate(-0 696.774194 433.318281)">50</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 792.929032 417.96 
+L 792.929032 106.92 
+" clip-path="url(#p2fec9eaf67)" style="fill: none; stroke: #172132; stroke-opacity: 0.1; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_7">
+      <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="792.929032" y="433.318281" transform="rotate(-0 792.929032 433.318281)">60</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="fill: #6f746f; font: 11px 'DejaVu Sans'; text-anchor: middle" x="514.08" y="447.964219" transform="rotate(-0 514.08 447.964219)">RMB trillion</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_15"/>
+     <g id="text_9">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="209" y="139.477218" transform="rotate(-0 209 139.477218)">Local government bonds</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_16"/>
+     <g id="text_10">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="209" y="190.333987" transform="rotate(-0 209 190.333987)">Financial bonds</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_17"/>
+     <g id="text_11">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="209" y="241.190756" transform="rotate(-0 209 241.190756)">Treasury bonds</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_18"/>
+     <g id="text_12">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="209" y="292.047525" transform="rotate(-0 209 292.047525)">Corporate credit bonds</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_19"/>
+     <g id="text_13">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="209" y="342.904294" transform="rotate(-0 209 342.904294)">NCDs</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_20"/>
+     <g id="text_14">
+      <text style="fill: #172132; font: 11px 'DejaVu Sans'; text-anchor: end" x="209" y="393.761063" transform="rotate(-0 209 393.761063)">Credit ABS</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 216 121.058182 
+L 732.351484 121.058182 
+L 732.351484 149.537973 
+L 216 149.537973 
+z
+" clip-path="url(#p2fec9eaf67)" style="fill: #c9583e"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 216 171.914951 
+L 641.004387 171.914951 
+L 641.004387 200.394742 
+L 216 200.394742 
+z
+" clip-path="url(#p2fec9eaf67)" style="fill: #4b718a"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 216 222.77172 
+L 594.850065 222.77172 
+L 594.850065 251.251511 
+L 216 251.251511 
+z
+" clip-path="url(#p2fec9eaf67)" style="fill: #c59a45"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 216 273.628489 
+L 546.772645 273.628489 
+L 546.772645 302.10828 
+L 216 302.10828 
+z
+" clip-path="url(#p2fec9eaf67)" style="fill: #172132"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 216 324.485258 
+L 415.040516 324.485258 
+L 415.040516 352.965049 
+L 216 352.965049 
+z
+" clip-path="url(#p2fec9eaf67)" style="fill: #6f746f"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 216 375.342027 
+L 225.615484 375.342027 
+L 225.615484 403.821818 
+L 216 403.821818 
+z
+" clip-path="url(#p2fec9eaf67)" style="fill: #b6ad9c"/>
+   </g>
+   <g id="text_15">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="741.293884" y="138.33339" transform="rotate(-0 741.293884 138.33339)">53.7</text>
+   </g>
+   <g id="text_16">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="649.946787" y="189.190159" transform="rotate(-0 649.946787 189.190159)">44.2</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="603.792465" y="240.046928" transform="rotate(-0 603.792465 240.046928)">39.4</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="555.715045" y="290.903697" transform="rotate(-0 555.715045 290.903697)">34.4</text>
+   </g>
+   <g id="text_19">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="423.982916" y="341.760466" transform="rotate(-0 423.982916 341.760466)">20.7</text>
+   </g>
+   <g id="text_20">
+    <text style="fill: #172132; font: 700 11px 'DejaVu Sans'; text-anchor: start" x="234.557884" y="392.617235" transform="rotate(-0 234.557884 392.617235)">1.0</text>
+   </g>
+   <g id="text_21">
+    <text style="fill: #6f746f; font: 10.5px 'DejaVu Sans'; text-anchor: start" x="216" y="100.6992" transform="rotate(-0 216 100.6992)">Selected custody balances by bond type, end-October 2025</text>
+   </g>
+   <g id="text_22">
+    <text style="fill: #172132; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="216" y="82.92" transform="rotate(-0 216 82.92)">China's bond market is not mainly corporate debt</text>
+   </g>
+  </g>
+  <g id="text_23">
+   <text style="fill: #6f746f; font: 9px 'DejaVu Sans'; text-anchor: end" x="812.16" y="468.99" transform="rotate(-0 812.16 468.99)">Source: PBOC, Financial Market Operations, Oct. 2025</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2fec9eaf67">
+   <rect x="216" y="106.92" width="596.16" height="311.04"/>
+  </clipPath>
+ </defs>
+</svg>

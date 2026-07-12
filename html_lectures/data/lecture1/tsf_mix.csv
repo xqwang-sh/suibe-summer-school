@@ -1,0 +1,6 @@
+series,economy,period,value,unit,source_id
+RMB loans to real economy,China,2025,60.7,percent of TSF stock,tsf_mix
+Government bonds,China,2025,21.5,percent of TSF stock,tsf_mix
+Corporate bonds,China,2025,7.7,percent of TSF stock,tsf_mix
+Domestic equity of non-financial enterprises,China,2025,2.8,percent of TSF stock,tsf_mix
+Other components,China,2025,7.3,percent of TSF stock,tsf_mix

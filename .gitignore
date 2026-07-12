@@ -1,0 +1,33 @@
+# Publish only explicitly selected top-level course-site paths.
+/*
+!/.gitignore
+!/netlify.toml
+!/scripts/
+!/scripts/**
+!/html_lectures/
+!/html_lectures/**
+!/docs/
+!/docs/**
+!/README.md
+
+# Local deployment state and credentials.
+.netlify/
+.env
+.env.*
+
+# Operating-system and language caches.
+.DS_Store
+**/.DS_Store
+**/__pycache__/
+**/*.py[cod]
+html_lectures/.quarto/
+
+# QA, scratch, and non-public working artifacts.
+html_lectures/qa_screenshots/
+html_lectures/qa_screenshots_reorg/
+html_lectures/tmp/
+html_lectures/tmp*.png
+html_lectures/_site.zip
+html_lectures/sources/
+*.pptx
+*.inspect.ndjson
