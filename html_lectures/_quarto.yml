@@ -1,6 +1,10 @@
 project:
   type: default
   output-dir: _site
+  render:
+    - index.qmd
+    - lecture1_payment_banks.qmd
+    - lecture2_capital_markets_ai.qmd
   post-render: python3 scripts/embed_css_dependencies.py _site
 
 format:

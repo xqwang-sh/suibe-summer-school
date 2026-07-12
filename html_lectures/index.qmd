@@ -1,0 +1,35 @@
+---
+title: "SUIBE Summer School"
+subtitle: "Financial Development and Artificial Intelligence"
+author: "Xiaoquan Wang"
+format: html
+embed-resources: true
+toc: false
+page-layout: full
+---
+
+::: {.course-home}
+## Lectures
+
+### [Lecture 1 · Payment Systems and Banks](lecture1_payment_banks.html)
+
+How payment infrastructure connects households, firms, banks and the broader financial system.
+
+### [Lecture 2 · Capital Markets and AI](lecture2_capital_markets_ai.html)
+
+Financial contracts, China’s bond and equity markets, private capital, and how AI is changing finance.
+:::
+
+```{=html}
+<style>
+body { color: #14213d; background: #f7f5ef; }
+.quarto-title-block { margin: 8vh auto 3rem; max-width: 960px; }
+.quarto-title .title { font-size: clamp(2.8rem, 7vw, 5.6rem); line-height: .96; letter-spacing: -.045em; }
+.quarto-title .subtitle { margin-top: 1.2rem; font-size: 1.35rem; color: #52606d; }
+.course-home { max-width: 960px; margin: 0 auto; padding-bottom: 8vh; }
+.course-home h2 { margin-bottom: 2rem; font-size: 1rem; letter-spacing: .16em; text-transform: uppercase; color: #b45309; }
+.course-home h3 { margin: 2.2rem 0 .55rem; font-size: clamp(1.55rem, 3vw, 2.2rem); }
+.course-home h3 a { color: #14213d; text-decoration-color: #f59e0b; text-underline-offset: .25em; }
+.course-home p { max-width: 760px; font-size: 1.08rem; color: #52606d; }
+</style>
+```

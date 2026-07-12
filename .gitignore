@@ -21,6 +21,9 @@
 **/__pycache__/
 **/*.py[cod]
 html_lectures/.quarto/
+html_lectures/_site/
+html_lectures/*_files/
+html_lectures/*.html
 
 # QA, scratch, and non-public working artifacts.
 html_lectures/qa_screenshots/
