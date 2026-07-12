@@ -1,6 +1,6 @@
 ---
 title: "SUIBE Summer School"
-subtitle: "Financial Development and Artificial Intelligence"
+subtitle: "Day 1-2"
 author: "Xiaoquan Wang"
 format: html
 embed-resources: true
@@ -11,11 +11,11 @@ page-layout: full
 ::: {.course-home}
 ## Lectures
 
-### [Lecture 1 · Payment Systems and Banks](lecture1_payment_banks.html)
+### [Lecture 1 · From Bank Payments to the Financial System](lecture1_payment_banks.html)
 
 How payment infrastructure connects households, firms, banks and the broader financial system.
 
-### [Lecture 2 · Capital Markets and AI](lecture2_capital_markets_ai.html)
+### [Lecture 2 · From Financial Contracts to Market Information](lecture2_capital_markets_ai.html)
 
 Financial contracts, China’s bond and equity markets, private capital, and how AI is changing finance.
 :::
