@@ -66,7 +66,14 @@ class RenderedSiteAuditTests(unittest.TestCase):
 
     def test_current_rendered_decks_are_css_self_contained(self) -> None:
         html_files = sorted(SITE_DIR.glob("*.html"))
-        self.assertEqual(len(html_files), 2)
+        self.assertEqual(
+            {path.name for path in html_files},
+            {
+                "index.html",
+                "lecture1_payment_banks.html",
+                "lecture2_capital_markets_ai.html",
+            },
+        )
         errors = [error for path in html_files for error in audit_html(path)]
         self.assertEqual(errors, [])
 
