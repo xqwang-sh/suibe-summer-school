@@ -21,6 +21,7 @@
 **/__pycache__/
 **/*.py[cod]
 html_lectures/.quarto/
+html_lectures/.gitignore
 html_lectures/_site/
 html_lectures/*_files/
 html_lectures/*.html
